@@ -104,5 +104,7 @@ dist
 .tern-port
 
 # Rush temporary files
-common/temp/**
+common/deploy/
+common/temp/
+common/autoinstallers/*/.npmrc
 **/.rush/temp/
